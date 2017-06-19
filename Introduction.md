@@ -95,7 +95,16 @@
 | 31 	 | 3v3 	| VDD33			  |
 
 
-* **Jumper**
+
+* **Uart Introduction**
+
+There are Uart0, Uart1 and Uart2 in the board.
+Uart0 is Debug Port, and you can use it through Set Jumpers, or use it directly.
+You can also realize [Introduce
+uart](https://github.com/RAKWireless/WisCore/wiki/Introduce-uart) for more information.
+
+
+* **Set Jumpers**
 
 1. Short ( RX1---C_TX , TX1---C_RX ), USB <--->( RX1 TX1), uart function（TXD1，RXD1）
 
