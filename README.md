@@ -20,4 +20,5 @@ This SDK is used for WisCore hardware development platform base on OpenWrt syste
   * [How to access serial console to WisCoreBoard](https://github.com/RAKWireless/wiscore/wiki/Access-serial-console)
   * [How to Setup Wireless](https://github.com/RAKWireless/wiscore/wiki/Setup-Wireless)
   * [How to control gpio](https://github.com/RAKWireless/wiscore/wiki/Control-Gpio)
+  * [How to enable uart](https://github.com/RAKWireless/WisCore/wiki/Introduct-uart)
   * [How to transfer data between serial and tcp](https://github.com/RAKWireless/wiscore/wiki/Transfer-Data-Between-Serial-And-Tcp)
