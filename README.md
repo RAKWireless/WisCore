@@ -22,3 +22,4 @@ This SDK is used for WisCore hardware development platform base on OpenWrt syste
   * [How to control gpio](https://github.com/RAKWireless/wiscore/wiki/Control-Gpio)
   * [How to enable uart](https://github.com/RAKWireless/WisCore/wiki/Introduce-uart)
   * [How to transfer data between serial and tcp](https://github.com/RAKWireless/wiscore/wiki/Transfer-Data-Between-Serial-And-Tcp)
+  * [How to control arduino through serial](https://github.com/RAKWireless/wiscore/wiki/Control-Arduino-Through-Serial)
