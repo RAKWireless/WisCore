@@ -10,7 +10,8 @@
 ```
 	sudo vi /etc/bash.bashrc 
 ```
-At the end of the file, add **export PATH="$PATH:/opt/mipsel-openwrt-linux-4.8.3/mipsel-4.8.3.2/toolchain-mipsel_24kec+dsp_gcc-4.8-linaro_uClibc-0.9.33.2/bin"** 
+At the end of the file, add: **export PATH="$PATH:/opt/mipsel-openwrt-linux-4.8.3/mipsel-4.8.3.2/toolchain-mipsel_24kec+dsp_gcc-4.8-linaro_uClibc-0.9.33.2/bin"** 
+
 such as:
 	
 ![](https://github.com/RAKWireless/wiscore/raw/master/img/compile_path.png)
