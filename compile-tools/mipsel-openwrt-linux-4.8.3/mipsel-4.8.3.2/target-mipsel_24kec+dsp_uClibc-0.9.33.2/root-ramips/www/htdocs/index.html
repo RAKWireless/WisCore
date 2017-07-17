@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta http-equiv="cache-control" content="no-cache">
+		<meta http-equiv="expires" content="0">
+		<title>WisCore Firmware Page</title>
+	</head>
+	<body>
+		<br>
+		<h3 style="color: red;">Please keep power connection during firmware update or backup process.</h3>
+		<table border="1" cellspacing="0">
+			<tr><td>
+		<table>
+			<div id="divUpdateFW">
+				<tr bgcolor="#D0D0D0">
+					<td><div><b>Update Firmware</b></div></td>
+				</tr>
+				<tr>
+					<td>
+						<form id="frmUpdateFW" action="fwupgrade.cgi" method="post" enctype="multipart/form-data">
+							<input name="firmware" type="file">
+							<input type="submit" value="Update">
+						</form>
+					</td>
+				</tr>
+			</div>
+		</table>
+			</td></tr>
+		</table>
+	</body>
+</html>

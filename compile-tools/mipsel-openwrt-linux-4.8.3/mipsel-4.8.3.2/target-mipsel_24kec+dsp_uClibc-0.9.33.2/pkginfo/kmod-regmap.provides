@@ -1,0 +1,4 @@
+i2c-dev.ko
+regmap-core.ko
+regmap-i2c.ko
+regmap-spi.ko

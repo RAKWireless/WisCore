@@ -1,0 +1,10 @@
+i2c-dev.ko
+input-core.ko
+regmap-core.ko
+regmap-i2c.ko
+regmap-spi.ko
+snd-mixer-oss.ko
+snd-pcm-oss.ko
+snd-pcm.ko
+snd-rawmidi.ko
+snd-soc-core.ko
