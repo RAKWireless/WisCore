@@ -1,14 +1,18 @@
 # Hardware
 
-## WisCore Board
+## Wis Board
 
-* The following figure is the RAK WisCore EVK, include 16MB flash and 64MB DDR2. It's a perfect compatibility with Arduino development board.
+* The following figure is the RAK WisProduct EVK. It's a perfect compatibility with Arduino development board, and there are WisCore Board & WisAp Board
+
+	+ WisCore: 16MB flash & 32MB DDR2, include "Mother Board", "Micro-Computer Board", "Audio Sub Board", support Amazon AVS
+
+	+ WisAp: 8MB flash & 32MB DDR2, include "Mother Board", "Micro-Computer Board",just as a router
 
 * Mother Board
 
 ![](https://github.com/RAKWireless/wiscore/raw/master/img/inf_reg_pic8.png)
 
-* WisCore micro-computer Board
+* Micro-Computer Board
 
 ![](https://github.com/RAKWireless/wiscore/raw/master/img/inf_reg_pic9.png)
 
@@ -100,8 +104,7 @@
 
 There are Uart0, Uart1 and Uart2 in the board.
 Uart0 is Debug Port, and you can use it through Set Jumpers, or use it directly.
-You can also realize [Introduce
-uart](https://github.com/RAKWireless/WisCore/wiki/Introduce-uart) for more information.
+You can also realize [Introduce uart](https://github.com/RAKWireless/WisCore/wiki/Introduce-uart) for more information.
 
 
 * **Set Jumpers**
