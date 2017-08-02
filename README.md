@@ -14,13 +14,14 @@ This SDK is used for WisCore hardware development platform base on OpenWrt syste
   * [WisAp](../../wiki/WisAp) - Router/AP
   * [WisGw](../../wiki/WisHgw) - IoT Gateway
 
-  + Programming Guide 
-	- [Burn Firmware](https://github.com/RAKWireless/wiscore/wiki/Burn-firmware-to-MT762x-Board)
-	- [Serial&Remote Console](https://github.com/RAKWireless/wiscore/wiki/Access-serial-console)
-	- [Setup Wireless](https://github.com/RAKWireless/wiscore/wiki/Setup-Wireless)
-	- [Control Gpio](https://github.com/RAKWireless/wiscore/wiki/Control-Gpio)
-	- [Enable Uart](https://github.com/RAKWireless/WisCore/wiki/Introduce-uart)
-	- [Control Arduino Through Serial](https://github.com/RAKWireless/wiscore/wiki/Control-Arduino-Through-Serial)
+
+* Programming Guide 
+ 	- [How To Burn Firmware](https://github.com/RAKWireless/wiscore/wiki/Burn-firmware-to-MT762x-Board)
+	- [How To Use Serial&Remote Console](https://github.com/RAKWireless/wiscore/wiki/Access-serial-console)
+	- [How To Setup Wireless](https://github.com/RAKWireless/wiscore/wiki/Setup-Wireless)
+	- [How To Control Gpio](https://github.com/RAKWireless/wiscore/wiki/Control-Gpio)
+	- [How To Enable Uart](https://github.com/RAKWireless/WisCore/wiki/Introduce-uart)
+	- [How To Control Arduino Through Serial](https://github.com/RAKWireless/wiscore/wiki/Control-Arduino-Through-Serial)
 
 
 # Reccent News
