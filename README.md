@@ -28,9 +28,10 @@ This SDK is used for WisCore hardware development platform base on OpenWrt syste
 # Reccent News
 
 ## WisCore
-
+WisCore based on OpenWrt, and support Amazon Alexa
 
 ## WisAp
+WisAp is as a Router, based on OpenWrt
 
 * Relese [wisap firmware](https://github.com/RAKWireless/wiscore/tree/master/release/wisap) to github
 * Add wisap quick start
