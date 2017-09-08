@@ -9,7 +9,7 @@
 
 # VER: r-188  2017-03-30
 ## release first version route AP firmware
-1. support web server to configure network mode£¨ap/ap-sta/repeate£©
+1. support web server to configure network mode (ap/ap-sta/repeat)
 2. power on default ssid be set: wisAp 
 3. support iperf
 4. support nfs mount
