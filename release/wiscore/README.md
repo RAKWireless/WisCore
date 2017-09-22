@@ -1,11 +1,43 @@
+#update firmware to - Beta-rc495
+
+1. **Optimized Logic**
+	
+	* Optimized Alexa logic
+
+	* Optimized dialog/alert/play stream logic
+	
+	* Optimized audio processing logic
+
+2. **Add Functions**
+
+	* Add "to do list" support
+
+	* Add "sport update" support
+
+	* Add "continous Spk TTS" support
+
+	* Add "play cid tts" support
+
+	* Add api: request "token" throung web
+
+	* Support different languages:en-US, en-GB, de-DE
+
+3. **Fix Bugs**
+	
+	* Some functions can't be reset when recoverboard
+
+	* Can't support special characters when connect board to router 
+
+	* Can't stop after interrupt audible
+
 # release - Eng-rc342
 ## fix bugs:
-1.Now supports WEB UI based seemless firmware upgrade</br>
-2.Support WEB UI pair Wi-Fi network and network mode switch</br>
-3.Fix for SSIDbug  where it was not supporting special character</br>
-4.Fix Alexa SDK DSN bug where now we dont need to set it after every update</br>
-5.Fix media format bug. Previous versions could not support some format of iHeartRadio station</br>
-6.Perform the response of ASR event</br>
+1. Now supports WEB UI based seemless firmware upgrade</br>
+2. Support WEB UI pair Wi-Fi network and network mode switch</br>
+3. Fix for SSIDbug  where it was not supporting special character</br>
+4. Fix Alexa SDK DSN bug where now we dont need to set it after every update</br>
+5. Fix media format bug. Previous versions could not support some format of iHeartRadio station</br>
+6. Perform the response of ASR event</br>
 
 # NOTE:
  Before you start upgrading, please confirm that if your board version is the previous version of RC-342, you must use the TFTP tool to upgrade firmware, otherwise you will be able to use webui cheerfully!</br>
