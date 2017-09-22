@@ -1,4 +1,9 @@
-# update firmware to - Beta-rc495
+# release - Beta-rc495
+
+Before you start upgrading, please confirm that if your board version is the
+previous version of RC-342, you must use the TFTP tool to upgrade firmware, and
+to use Alexa, you need set dsn, more details please refer to the next "NOTE";
+Otherwise you will be able to use webui cheerfully!
 
 1. **Optimized Logic**
 	
@@ -30,8 +35,11 @@
 
 	* Can't stop after interrupt audible
 
-# release - Eng-rc342
-## fix bugs:
+# History Version
+
+## release - Eng-rc342
+
+### fix bugs:
 1. Now supports WEB UI based seemless firmware upgrade</br>
 2. Support WEB UI pair Wi-Fi network and network mode switch</br>
 3. Fix for SSIDbug  where it was not supporting special character</br>
@@ -40,8 +48,7 @@
 6. Perform the response of ASR event</br>
 
 # NOTE:
- Before you start upgrading, please confirm that if your board version is the previous version of RC-342, you must use the TFTP tool to upgrade firmware, otherwise you will be able to use webui cheerfully!</br>
-
+</br>
 Suppose you are lower than rc-342 version of the user, you must know the following steps:</br>
  However, since this is Beta sample, We have changed the format of the DSN, so once you complete the firmware upgrade, you have to Set the DSN manually, please refer to the procedure below (after performing the upgrade) to understand how to write the DSN to protected area in the Nor-flash:</br>
 
