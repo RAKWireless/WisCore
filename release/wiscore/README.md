@@ -1,4 +1,4 @@
-#update firmware to - Beta-rc495
+# update firmware to - Beta-rc495
 
 1. **Optimized Logic**
 	
