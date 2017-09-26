@@ -2,7 +2,7 @@
 
 Before you start upgrading, please confirm that if your board version is the
 previous version of RC-342, you must use the TFTP tool to upgrade firmware, and
-to use Alexa, you need set dsn, more details please refer to the next <a href="#jtn">NOTE</a>;
+to use Alexa, you need set dsn, more details please refer to the next <a href="#note">NOTE</a>;
 Otherwise you will be able to use webui cheerfully!
 
 1. **Optimized Logic**
@@ -48,7 +48,7 @@ Otherwise you will be able to use webui cheerfully!
 6. Perform the response of ASR event</br>
 
 # NOTE:
-<div id="jtn"></div>
+<div id="note"></div>
 Suppose you are lower than rc-342 version of the user, you must know the following steps:</br>
  However, since this is Beta sample, We have changed the format of the DSN, so once you complete the firmware upgrade, you have to Set the DSN manually, please refer to the procedure below (after performing the upgrade) to understand how to write the DSN to protected area in the Nor-flash:</br>
 
