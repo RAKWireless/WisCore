@@ -48,9 +48,8 @@ Otherwise you will be able to use webui cheerfully!
 6. Perform the response of ASR event</br>
 
 # NOTE:
-<div id="jtn"># NOTE:</div>
 </br>
-Suppose you are lower than rc-342 version of the user, you must know the following steps:</br>
+<div id="jtn">Suppose</div> you are lower than rc-342 version of the user, you must know the following steps:</br>
  However, since this is Beta sample, We have changed the format of the DSN, so once you complete the firmware upgrade, you have to Set the DSN manually, please refer to the procedure below (after performing the upgrade) to understand how to write the DSN to protected area in the Nor-flash:</br>
 
 1: You need switch to Serial Console after complete the firmware upgrade, the method to entry, pls click the link:https://github.com/RAKWireless/wiscore/wiki/Access-serial-console </br>
