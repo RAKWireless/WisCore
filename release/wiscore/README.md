@@ -1,9 +1,21 @@
-# release - Beta-rc495
+# Note
 
-Before you start upgrading, please confirm that if your board version is the
+**Before you start upgrading, please confirm that if your board version is the
 previous version of RC-342, you must use the TFTP tool to upgrade firmware, and
 to use Alexa, you need set dsn, more details please refer to the next <a href="#note">NOTE</a>;
-Otherwise you will be able to use webui cheerfully!
+Otherwise you will be able to use webui cheerfully!**
+
+# release - Beta-rc498
+
+1. Update microsemi keywords false trigger problem
+
+2. Add the mute/unmute function by voice when playing music
+
+3. Add notification tips function
+
+# History Version
+
+## release - Beta-rc495
 
 1. **Optimized Logic**
 	
@@ -35,7 +47,6 @@ Otherwise you will be able to use webui cheerfully!
 
 	* Can't stop after interrupt audible
 
-# History Version
 
 ## release - Eng-rc342
 
