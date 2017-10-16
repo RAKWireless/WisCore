@@ -32,7 +32,7 @@ This SDK is used for WisCore hardware development platform base on OpenWrt syste
 
 * Optimized and add functions
 
-[WisCore firmware](https://github.com/RAKWireless/WisCore/tree/master/release/wiscore) update --- September 22 2017
+WisCore firmware update --- September 22 2017
 
 + optimized logic
 
