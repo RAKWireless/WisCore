@@ -8,7 +8,7 @@ Fix exit bug when logout
 
 # History Version
 
-# release - Eng-rc502
+## release - Eng-rc502
 
 1. Fix play music be blocked issue
 
