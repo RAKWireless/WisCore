@@ -73,7 +73,7 @@
 | 5 	 | LINK3 	| 10/100M PHY Port#2 activity LED,JTAG_CLK			  |
 | 6 	 | PWM2 	| PWM			  |
 | 7 	 | PWM3 	| PWM		  |
-| 8 	 | GPIO0 	| GPIO			  |
+| 8 	 | GPIO0 	| GPIO#11			  |
 | 9 	 | LINK4 	| 10/100M PHY Port#2 activity LED,JTAG_TRST_N			  |
 | 10 	 | \ 	| \			  |
 | 11	 | SPI_CS 	| SPI chip select 1			  |
