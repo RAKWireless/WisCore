@@ -4,9 +4,9 @@
 
 * The following figure is the RAK WisProduct EVK. It's a perfect compatibility with Arduino development board, and there are WisCore Board & WisAp Board
 
-	+ WisCore: 16MB flash & 32MB DDR2, include "Mother Board", "Micro-Computer Board", "Audio Sub Board", support Amazon AVS
+	+ WisCore: 16MB flash & 64MB DDR2, include "Mother Board", "Micro-Computer Board", "Audio Sub Board", support Amazon AVS
 
-	+ WisAp: 8MB flash & 32MB DDR2, include "Mother Board", "Micro-Computer Board",just as a router
+	+ WisAp: 8MB flash & 64MB DDR2, include "Mother Board", "Micro-Computer Board",just as a router
 
 * Mother Board
 
