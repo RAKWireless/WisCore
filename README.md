@@ -28,7 +28,16 @@ This SDK is used for WisCore hardware development platform base on OpenWrt syste
 # Reccent News
 
 ## WisCore
-[WisCore firmware](https://github.com/RAKWireless/WisCore/tree/master/release/wiscore) update --- November 9 2017
+
+[WisCore firmware](https://github.com/RAKWireless/WisCore/tree/master/release/wiscore) update --- November 28 2017
+
+* update the version of libcurl
+
+## History Version
+
+WisCore firmware update --- November 9 2017
+
+* Fix bug when logout
 
 WisCore firmware update --- October 16 2017
 
