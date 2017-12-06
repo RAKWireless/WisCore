@@ -3,6 +3,8 @@ previous version of RC-342, you must use the TFTP tool to upgrade firmware, and
 to use Alexa, you need set dsn, more details please refer to the next <a href="#note">NOTE</a>;
 Otherwise you will be able to use webui cheerfully!**
 
+# release RC517-NOVAD
+
 # release Eng-rc516
 
 1. update the version of libcurl
