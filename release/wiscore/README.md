@@ -22,7 +22,7 @@ Otherwise you will be able to use webui cheerfully!**
 
 ## release - Eng-rc503
 
-Fix exit bug when logout
+   Fix exit bug when logout
 
 ## release - Eng-rc502
 
