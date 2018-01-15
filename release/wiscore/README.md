@@ -3,12 +3,22 @@ previous version of RC-342, you must use the TFTP tool to upgrade firmware, and
 to use Alexa, you need set dsn, more details please refer to the next <a href="#note">NOTE</a>;
 Otherwise you will be able to use webui cheerfully!**
 
-# release Eng-rc516
+# release ASR-rc568
+
+1. fix flash briefing overlap issue when usr ask 'previous/next' command
+2. fix play audible progress bar issue when usr ask 'skip/rewind' command
+3. fix audio decoder some issue
+4. fix again expect speech capture issue when a ExpectSpeech directive be
+   reached
+5. add query Alexa login status interface when APPS want to get the status
+6. add notificate come in to play a prompt sound
+
+# History Version
+
+## release Eng-rc516
 
 1. update the version of libcurl
 2. fix stop capture bug
-
-# History Version
 
 ## release - Eng-rc503
 
