@@ -3,7 +3,7 @@ previous version of RC-342, you must use the TFTP tool to upgrade firmware, and
 to use Alexa, you need set dsn, more details please refer to the next <a href="#note">NOTE</a>;
 Otherwise you will be able to use webui cheerfully!**
 
-# release ASR-rc568
+# release ASR-rc568-NOVAD
 
 1. fix flash briefing overlap issue when usr ask 'previous/next' command
 2. fix play audible progress bar issue when usr ask 'skip/rewind' command
