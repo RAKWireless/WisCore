@@ -3,7 +3,16 @@ previous version of RC-342, you must use the TFTP tool to upgrade firmware, and
 to use Alexa, you need set dsn, more details please refer to the next <a href="#note">NOTE</a>;
 Otherwise you will be able to use webui cheerfully!**
 
-# release ASR-rc568-NOVAD
+# release ASR-rc571-NOVAD
+
+1. add network switch mode, user can switch to the AP mode by hold the 'SW1'
+   button for 1s when WisCore is stayed in STA mode
+2. optimization of alert logic issue
+3. optimization of boot startup sequence
+
+# History Version
+
+## release ASR-rc568-NOVAD
 
 1. fix flash briefing overlap issue when usr ask 'previous/next' command
 2. fix play audible progress bar issue when usr ask 'skip/rewind' command
@@ -13,7 +22,6 @@ Otherwise you will be able to use webui cheerfully!**
 5. add query Alexa login status interface when APPS want to get the status
 6. add notificate come in to play a prompt sound
 
-# History Version
 
 ## release Eng-rc516
 
