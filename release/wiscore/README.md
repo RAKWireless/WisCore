@@ -3,14 +3,19 @@ previous version of RC-342, you must use the TFTP tool to upgrade firmware, and
 to use Alexa, you need set dsn, more details please refer to the next <a href="#note">NOTE</a>;
 Otherwise you will be able to use webui cheerfully!**
 
-# release ASR-rc571-NOVAD
+# release ASR-rc573-NOVAD
+
+1. some words be got cut when Alexa is reading
+2. alert should play a short sound cue when Alexa is responing weather
+
+# History Version
+
+## release ASR-rc571-NOVAD
 
 1. add network switch mode, user can switch to the AP mode by hold the 'SW1'
    button for 1s when WisCore is stayed in STA mode
 2. optimization of alert logic issue
 3. optimization of boot startup sequence
-
-# History Version
 
 ## release ASR-rc568-NOVAD
 

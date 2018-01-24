@@ -29,9 +29,11 @@ This SDK is used for WisCore hardware development platform base on OpenWrt syste
 
 ## WisCore
 
-[WisCore firmware](https://github.com/RAKWireless/WisCore/tree/master/release/wiscore) "ASR-rc571" update --- January 22 2018
+[WisCore firmware](https://github.com/RAKWireless/WisCore/tree/master/release/wiscore) "ASR-rc573" update --- January 24 2018
 
 ## History Version
+
+WisCore firmware "ASR-rc571" update --- January 22 2018
 
 WisCore firmware "ASR-rc568" update --- January 15 2018
 
