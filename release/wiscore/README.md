@@ -5,8 +5,25 @@ Otherwise you will be able to use webui cheerfully!**
 
 # release ASR-rc573-NOVAD
 
-1. some words be got cut when Alexa is reading
+Functional Bugs Fix
+1. some words be got cut 
+
 2. alert should play a short sound cue when Alexa is responing weather
+
+3. Optimize the OTA procedure and time
+
+4. reset scheme to AP mode changed 
+
+5. optimize alarm /timer switch back and forth 
+
+6. optimize the SpeechSynthesizer interface related event sequence issue.
+
+Music Bugs Fix
+1. fix some audio decoder issue
+2. fix the timestamp of stream synchronization problem and progress bar
+3. fix the AudioPlayer interface related event logic problems (includes flash
+		briefing overlap issue, relate event sequence issue and some operation
+		command such as next/previous etc. )
 
 # History Version
 
