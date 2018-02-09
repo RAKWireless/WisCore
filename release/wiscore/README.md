@@ -4,7 +4,7 @@ to use Alexa, you need set dsn, more details please refer to the next <a href="#
 Otherwise you will be able to use webui cheerfully!**
 
 
-# release ASR-rc573-NOVAD
+# release ASR-rc575-NOVAD
 1. fix flash briefing block
 2. optimize audio player timestamp
 
