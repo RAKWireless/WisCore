@@ -5,13 +5,13 @@ Otherwise you will be able to use webui cheerfully!**
 
 
 
+# History Version
+
 # release ASR-rc576-customize
 
-# release ASR-rc575-NOVAD
+## release ASR-rc575-NOVAD
 1. fix flash briefing block
 2. optimize audio player timestamp
-
-# History Version
 
 ## release ASR-rc573-NOVAD
 
