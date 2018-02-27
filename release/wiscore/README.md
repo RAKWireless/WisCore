@@ -7,6 +7,9 @@ Otherwise you will be able to use webui cheerfully!**
 
 # release ASR-rc576-customize
 
+If in the Play directive not found 'progressReportIntervalInMilliseconds' the device will 
+be forced to add the value of 900000, This change is only for some specific tests options 
+
 # History Version
 
 ## release ASR-rc575-NOVAD
