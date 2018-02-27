@@ -5,9 +5,9 @@ Otherwise you will be able to use webui cheerfully!**
 
 
 
-# History Version
-
 # release ASR-rc576-customize
+
+# History Version
 
 ## release ASR-rc575-NOVAD
 1. fix flash briefing block
