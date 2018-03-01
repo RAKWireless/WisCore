@@ -3,14 +3,17 @@ previous version of RC-342, you must use the TFTP tool to upgrade firmware, and
 to use Alexa, you need set dsn, more details please refer to the next <a href="#note">NOTE</a>;
 Otherwise you will be able to use webui cheerfully!**
 
+# release ASR-rc577-customize
 
+fix the submission of the ProgressReportIntervalElapsed
+event
 
-# release ASR-rc576-customize
+# History Version
+
+## release ASR-rc576-customize
 
 If in the Play directive not found 'progressReportIntervalInMilliseconds' the device will 
 be forced to add the value of 900000, This change is only for some specific tests options 
-
-# History Version
 
 ## release ASR-rc575-NOVAD
 1. fix flash briefing block
