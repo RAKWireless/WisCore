@@ -3,7 +3,20 @@ previous version of RC-342, you must use the TFTP tool to upgrade firmware, and
 to use Alexa, you need set dsn, more details please refer to the next <a href="#note">NOTE</a>;
 Otherwise you will be able to use webui cheerfully!**
 
-# release ASR-rc573-NOVAD
+
+
+# release ASR-rc576-customize
+
+If in the Play directive not found 'progressReportIntervalInMilliseconds' the device will 
+be forced to add the value of 900000, This change is only for some specific tests options 
+
+# History Version
+
+## release ASR-rc575-NOVAD
+1. fix flash briefing block
+2. optimize audio player timestamp
+
+## release ASR-rc573-NOVAD
 
 Functional Bugs Fix
 1. some words be got cut 
@@ -24,8 +37,6 @@ Music Bugs Fix
 3. fix the AudioPlayer interface related event logic problems (includes flash
 		briefing overlap issue, relate event sequence issue and some operation
 		command such as next/previous etc. )
-
-# History Version
 
 ## release ASR-rc571-NOVAD
 
