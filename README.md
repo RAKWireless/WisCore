@@ -35,6 +35,8 @@ This SDK is used for WisCore hardware development platform base on OpenWrt syste
 
 WisCore firmware "ASR-rc576" update --- February 27 2018
 
+WisCore firmware "ASR-rc575" update --- February 09 2018
+
 WisCore firmware "ASR-rc573" update --- January 24 2018
 
 WisCore firmware "ASR-rc571" update --- January 22 2018
