@@ -12,7 +12,7 @@ This SDK is used for WisCore hardware development platform base on OpenWrt syste
 * WisProduct Quick Start
   * [WisCore](../../wiki/WisCore) - Amazon Alexa
   * [WisAp](../../wiki/WisAp) - Router/AP
-  * [WisGw](../../wiki/WisHgw) - IoT Gateway
+  * [WisLora](../../wiki/WisLora) - IoT Lora Gateway
 
 
 * Programming Guide 
