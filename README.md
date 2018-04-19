@@ -33,6 +33,8 @@ This SDK is used for WisCore hardware development platform base on OpenWrt syste
 
 ## History Version
 
+WisCore firmware "ASR-CBV-rc582" update --- April 19 2018
+
 WisCore firmware "ASR-rc577" update --- March 1 2018
 
 WisCore firmware "ASR-rc576" update --- February 27 2018
