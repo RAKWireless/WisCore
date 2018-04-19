@@ -3,15 +3,20 @@ previous version of RC-342, you must use the TFTP tool to upgrade firmware, and
 to use Alexa, you need set dsn, more details please refer to the next <a href="#note">NOTE</a>;
 Otherwise you will be able to use webui cheerfully!**
 
-# release ASR-rc578
+
+# History Version
+
+## release ASR-CBV-rc582
+
+* add the Cloud Based WW Verification(CBV) function
+
+## release ASR-rc578
 
 1, fix how to correct sending of the reporting time event for
 'progressReportIntervalInMilliseconds' options
 
 2, fix flash briefing block issue
 
-
-# History Version
 
 # release ASR-rc577-customize
 
