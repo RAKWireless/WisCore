@@ -4,11 +4,12 @@ to use Alexa, you need set dsn, more details please refer to the next <a href="#
 Otherwise you will be able to use webui cheerfully!**
 
 
-# History Version
 
-## release ASR-CBV-rc582
+# release ASR-CBV-rc582
 
 * add the Cloud Based WW Verification(CBV) function
+
+# History Version
 
 ## release ASR-rc578
 
