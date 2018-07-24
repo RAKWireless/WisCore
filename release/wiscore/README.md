@@ -3,13 +3,19 @@ previous version of RC-342, you must use the TFTP tool to upgrade firmware, and
 to use Alexa, you need set dsn, more details please refer to the next <a href="#note">NOTE</a>;
 Otherwise you will be able to use webui cheerfully!**
 
+# release ASR-RC601
 
+* add new alexa account in wiscore. 
+Note: must use the newest firmware and newest APP (ios and android).
+
+
+
+# History Version
 
 # release ASR-CBV-rc582
 
 * add the Cloud Based WW Verification(CBV) function
 
-# History Version
 
 ## release ASR-rc578
 
